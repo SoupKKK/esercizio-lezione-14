@@ -1,0 +1,13 @@
+body{margin: 0% 3% 0% 3%; background-color: coral;}
+#tombola, #cartella {padding: 0.5%; font-size: 110%; border: 5px solid black; margin: 1%; border-radius: 15px; width: 50%; text-align: center;}
+
+#tombola > div, #cartella > div {
+    display: inline-block;
+    width: 3%;
+    text-align: center;
+    padding: 2.55%;
+    border: 1px solid black;
+    margin: 1px;
+}
+
+.selected{background-color: white;}
