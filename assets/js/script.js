@@ -83,6 +83,6 @@ const NumberCall = function() {
     } else {
         return false
     }
-    
+
     }
 
